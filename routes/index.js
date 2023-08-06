@@ -5,6 +5,7 @@ const nameList = [
 {'id':1, 'name': 'Samadhi', 'email': 'abc@gmail.com'},
 {'id':2, 'name': 'Sarah', 'email': 'pqr@gmail.com'},
 {'id':3, 'name': 'David', 'email': 'xyz@gmail.com'},
+{'id':3, 'name': 'Jane', 'email': 'jane@gmail.com'},
 ];
 
 /* GET home page. */
